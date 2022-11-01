@@ -1,0 +1,30 @@
+main{
+    margin-inline: 10%;
+}
+
+.entrada{
+    margin-inline: 15%;
+    margin-block: 3%;
+}
+
+.entrada h4{
+    font-size: 150%;
+    padding-block: 15px;
+    text-decoration: underline;
+}
+
+.entrada:last-of-type{
+    margin-inline: 34%;
+}
+
+.entrada a:link{
+    font-family: 'lato';
+}
+
+.entrada a:visited{
+    color: black;
+}
+
+.entrada a:hover{
+    color: rgb(1, 1, 175);
+}

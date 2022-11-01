@@ -1,0 +1,18 @@
+div{
+    float: left;
+    margin-block: 2%;
+    margin-left: 15%;
+    border: #A91079 5px solid;
+    background-color: #ffd8f8;
+    border-radius: 1vh;
+    padding: 1%;
+}
+
+div ul{
+    padding: 2%;
+    padding-left: 8%;
+}
+div li{
+    padding-block: 1%;
+
+}

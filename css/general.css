@@ -1,0 +1,33 @@
+
+.entrada{
+    margin-inline: 15%;
+    margin-block: 2%;
+}
+
+.entrada:last-of-type {
+    padding-bottom: 5%;
+}
+
+.entrada p{
+    /* margin-top: 25px; */
+    float: left;
+}
+
+.entrada img{
+    margin-block: 10px;
+    border-radius: 1vh;
+}
+
+h4{
+    color: white;
+    padding-block: 20px;
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+#entrevista{
+    border:1px solid #EEE; 
+    width:90%;
+    margin-top: 5%;
+}
+
