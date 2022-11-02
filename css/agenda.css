@@ -1,0 +1,30 @@
+table{
+    border-radius: 1vh;
+    background-color: pink;
+    float: left;
+    width: 40%;
+    height: 10em;
+    text-align: center;
+    margin-top: 140px;
+    margin-left: 75px;
+    border: #A91079 5px solid;
+    background-color: #ffd8f8;
+}
+
+th{
+    font-size: 130%;
+    text-decoration: underline;
+    padding-block: 1%;
+}
+
+th, td{
+    border: solid 3px #2E0249;
+}
+
+iframe{
+    float: right;
+}
+
+div{
+    padding-bottom: 35%;
+}
