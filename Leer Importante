@@ -1,0 +1,28 @@
+
+
+                                        Notas de estructura del código.
+    
+  - Videos con enlace interno/externo.
+En la galería de videos no hay ningún video con enlace interno, ya que no me parecía estético ni óptimo para la página. 
+Sin embargo, he colocado en el "Index" un video con enlace interno para cumplir con los requisitos solicitados.
+
+  - Validador de contenido HTML y CSS.
+Todo el código de HTML y CSS ha sido validado y modificado según las órdenes de los validadores de W3C correspondientes.
+
+  - Variedad de métodos.
+He usado varios métodos en CSS para realizar la misma o muy similar función para demostrar mi capacidad en esta práctica.
+Imagino que a la hora de crear una web real, no será muy óptimo usar diferentes métodos para hacer lo mismo, pero creo que en este ejercicio es correcto.
+
+  - HTML modificado y corregido.
+He corregido y modificado todo el código HTML según las correcciones de la primera práctica y las necesidades de la segunda.
+
+  - Carpeta de fuentes añadida.
+Dentro de la carpeta 'css' he añadido una carpeta extra donde he guardado unas fuentes (de GoogleFonts) que he querido usar.
+Las fuentes se importan en "common.css" con un [@font-face], la cual, ha sido la manera más correcta a mi parecer de importarlas según los métodos que he encontrado.
+
+  - Extra.
+El archivo CSS "common" tiene anotaciones que separa en apartados según lo que hace. Así es más fácil leerlo y corregirlo.
+
+P.D. Espero que la practica este bien y que le guste.
+
+- Victor E.
